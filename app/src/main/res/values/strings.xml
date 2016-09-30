@@ -1,0 +1,8 @@
+<resources>
+
+
+
+    <string name="action_settings">Settings</string>
+        <string name="app_name">Simple Login</string>
+
+</resources>
